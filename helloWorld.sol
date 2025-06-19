@@ -9,5 +9,3 @@ contract helloWorld{
         return "Hello World!";
     }
 }
-
-##
