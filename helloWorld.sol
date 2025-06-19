@@ -1,6 +1,3 @@
-// Changed (.sol) to (.txt) for saving file 
-#
-
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.30;
 
